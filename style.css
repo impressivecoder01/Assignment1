@@ -88,13 +88,16 @@ nav{
     border-radius: 48px;
 }
 
-.herotwo h1{
+/* herotwostart */
+
+.herotwotitle{
     color: #252432;
     font-size: 38px;
     font-weight: 800;
 }
 .herotwo{
-    background-color: #c6c6fd;
+    background-color: #d6d6ff;
+    border-radius: 24px;
 }
 
 .herotwonumbers{
@@ -105,4 +108,19 @@ nav{
 .herotwonumbers h1{
     font-size: 80px;
     color:#4E47FF ;
+  font-family: "Inder", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+
+}
+.herotwonumbers p{
+    color: #000000;
+    font-size: 20px;
+    font-family: "Inder", sans-serif;
+  /* font-weight: 800; */
+  font-style: normal;
+}
+
+.herotwopadding{
+    padding: 50px 140px;
 }
