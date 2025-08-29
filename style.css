@@ -21,6 +21,7 @@ body {
     padding: 12px 36px;
     border-radius: 10px;
     font-weight: 700;
+    border: none;
 }
 
 .text-center{
@@ -62,4 +63,27 @@ nav{
 }
 .stay-focused-margin{
     margin-top: 40px;
+}
+
+/* hero start */
+.hero{
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero-title{
+    font-size: 45px;
+    font-weight: 800;
+}
+.hero-discription{
+    font-size: 24px;
+    color: #252432;
+    margin: 23px 0;
+    /* width: 50%; */
+}
+.hero img{
+    /* width: 50%; */
+    height: 328px;
+    border-radius: 48px;
 }
