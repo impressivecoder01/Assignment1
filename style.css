@@ -67,7 +67,7 @@ nav{
 
 /* hero start */
 .hero{
-    margin-top: 90px;
+    margin: 100px 0px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -86,4 +86,23 @@ nav{
     /* width: 50%; */
     height: 328px;
     border-radius: 48px;
+}
+
+.herotwo h1{
+    color: #252432;
+    font-size: 38px;
+    font-weight: 800;
+}
+.herotwo{
+    background-color: #c6c6fd;
+}
+
+.herotwonumbers{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.herotwonumbers h1{
+    font-size: 80px;
+    color:#4E47FF ;
 }
