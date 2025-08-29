@@ -20,6 +20,7 @@ body {
     color: #FFFFFF;
     padding: 12px 36px;
     border-radius: 10px;
+    font-weight: 700;
 }
 
 .text-center{
@@ -55,4 +56,10 @@ nav{
 .nav-text{
     font-size: 65px;
     font-weight: 700;
+}
+.navtext-area{
+    padding: 150px 200px ;
+}
+.stay-focused-margin{
+    margin-top: 40px;
 }
