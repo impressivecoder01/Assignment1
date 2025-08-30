@@ -170,3 +170,11 @@ nav{
     font-size: 16px;
     margin-bottom: 15px;
 }
+
+/* focus better start */
+.focus-better-title{
+    font-weight: 800;
+    font-size: 50px;
+    color: #252432;
+    /* margin: 60px 0px 30px 0px; */
+}
