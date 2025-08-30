@@ -104,6 +104,7 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin: 40px 0px;
 }
 .herotwonumbers h1{
     font-size: 80px;
@@ -123,4 +124,12 @@ nav{
 
 .herotwopadding{
     padding: 50px 140px;
+}
+
+/* user review start */
+.user-review-title{
+    font-weight: 800;
+    font-size: 42px;
+    color: #252432;
+    margin: 80px 0 0 30px;
 }
