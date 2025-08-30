@@ -131,5 +131,42 @@ nav{
     font-weight: 800;
     font-size: 42px;
     color: #252432;
-    margin: 80px 0 0 30px;
+    margin: 80px 0 30px 0px;
+}
+
+.review-card{
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    
+}
+
+.reviewone{
+    background-color: #faf2f2;
+    border-radius: 24px;
+    width: 25%;
+    /* padding: 30px 20x 20x 20px; */
+    padding: 24px 24px;
+}
+
+.reviewers-info{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.reviewers-info img{
+    border-radius: 50%;
+}
+
+.reviewone h4{
+    margin: 10px 0px;
+    color: #252432;
+    font-size: 20px;
+}
+
+.review-description{
+    color: #252432;
+    font-size: 16px;
+    margin-bottom: 15px;
 }
