@@ -198,3 +198,13 @@ nav{
 .focus-padding{
     padding-bottom: 50px;
 }
+
+/* get in touch start */
+.get-touch{
+    margin: 50px 0px 40px 0px;
+}
+
+.tocuh-title{
+    font-weight: 800;
+    font-size: 90px;
+}
