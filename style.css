@@ -176,5 +176,25 @@ nav{
     font-weight: 800;
     font-size: 50px;
     color: #252432;
-    /* margin: 60px 0px 30px 0px; */
+    padding-top: 40px;
+}
+
+.focus-better{
+    background-color: #faf2f2;
+    margin: 50px 0px;
+}
+
+.focus-better-description{
+    color: #000000;
+    margin: 22px 0px;
+}
+
+.focus-img{
+    margin-top: 30px;
+    /* padding: 0px 0px 50px 0px; */
+    border-radius: 50px;
+}
+
+.focus-padding{
+    padding-bottom: 50px;
 }
