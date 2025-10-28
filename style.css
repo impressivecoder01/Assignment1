@@ -4,6 +4,14 @@
 }
 
 /* common styles */
+
+.font{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+   font-style: normal;
+}
+
+
 body{
     max-width: 1440px;
     margin: 30px auto;
@@ -212,16 +220,9 @@ nav{
 .tocuh-title{
     font-weight: 800;
     font-size: 90px;
+    /* font-family: "Raleway", sans-serif; */
     /* width: 50%; */
 }
-
-/* .gone{
-    width: 50%;
-} */
-/* .gtwo{ */
-    /* width: 50%; */
-/* } */
-
 input[type="text"] , input[type="email"] , textarea{
     /* height: 50px; */
     background-color: #f8f8f8;
@@ -230,7 +231,8 @@ input[type="text"] , input[type="email"] , textarea{
     font-size: 18px;
     border: none;
     width: 100%;
-    padding: 20px 0px 20px 5px;
+    padding: 20px 0px 20px 15px;
+    margin-top: 10px;
 }
 
 .lbl{
