@@ -12,9 +12,13 @@
 }
 
 
-body{
+
+ body{
     max-width: 1440px;
     margin: 30px auto;
+}
+.bg{
+    width: 100%;
 }
 body {
   font-family: "Raleway", sans-serif;
@@ -37,11 +41,12 @@ body {
 }
 
 /* header style start */
-header{
+.bg{
     background-image: url(./Assets/Hero-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+   
 }
 header nav li{
     list-style: none;
